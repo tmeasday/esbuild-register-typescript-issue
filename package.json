@@ -1,0 +1,12 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chromatic": "^6.19.0-canary.2",
+    "esbuild": "^0.17.19",
+    "esbuild-register": "^3.4.2",
+    "typescript": "^5.1.3"
+  }
+}
